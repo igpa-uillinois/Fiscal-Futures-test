@@ -1266,7 +1266,7 @@ rev_long %>%
 
 ```{r}
 #| label: fig-bargraphs-largest-expandrev-cats
-#| fig-cap: 
+#| fig-cap: No
 #| fig-subcap: 
 #| - "Largest Expenditures"
 #| - "Largest Revenue Sources"
