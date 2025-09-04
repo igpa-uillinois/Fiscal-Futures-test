@@ -46,7 +46,7 @@ profiles:
       #author: "Alea Wilbur-Mujtaba"
       date: last-modified
       search: true
-      repo-url: https://github.com/AleaWM/Fiscal-Futures/
+      repo-url: https://github.com/igpa-uillinois/Fiscal-Futures-test
       navbar: 
         left:
           - text: "About"
@@ -57,7 +57,7 @@ profiles:
               - code-cleaning.qmd
               - Everything_changepensions.qmd
           - text: "Data"
-            href: https://github.com/AleaWM/Fiscal-Futures/tree/main/data
+            href: https://github.com/igpa-uillinois/Fiscal-Futures-test/tree/main/data
       # Profile-specific metadata for the PERSONAL build
       # Structured authors (shows up in page header + HTML metadata)
       author:
